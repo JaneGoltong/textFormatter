@@ -11,7 +11,15 @@
     margin-bottom: 20px;
 
 }
-.h1{
-    font: 600;
+.b1{
+    font-size: small;
 
+}
+.a1{
+  font: bold; 
+  color: white; 
+}
+.c1{
+ background-color: red; 
+ padding: 10px;
 }
